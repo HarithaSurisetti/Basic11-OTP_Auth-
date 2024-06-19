@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294709107667",
+    "project_id": "authentication-faa2f",
+    "storage_bucket": "authentication-faa2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294709107667:android:fa07c030e516bc4478ed26",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294709107667-n9n43vnptudj4u3anu9o811psg2qm8t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp_auth",
+            "certificate_hash": "c57d6e5adc8e6ec708d77ef8408dd480f68e3b85"
+          }
+        },
+        {
+          "client_id": "294709107667-air1kdvtv4gehh2vc8bkeen5k1pa5ro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlXpaRE2UZELp0DITqpWIUPb7oCDexQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294709107667-air1kdvtv4gehh2vc8bkeen5k1pa5ro5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
